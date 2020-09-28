@@ -1,0 +1,16 @@
+{
+  "name": "node-redis-app",
+  "version": "1.0.0",
+  "description": "caluculate number of visits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node redis app"],
+  "author": "gopibabu srungavarapu",
+  "license": "ISC",
+  "dependencies": {
+    "express" : "*",
+    "redis": "2.8.0"
+  }
+}

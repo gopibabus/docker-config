@@ -1,0 +1,17 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "A simple node app",
+  "main": "index.js",
+  "keywords": [
+    "a node app"
+  ],
+  "author": "gopibabu srungavarapu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
