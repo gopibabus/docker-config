@@ -1,8 +1,3 @@
-![Docker Essentials](./banner.png)
+# Docker Config
 
-### Configuration
-[Restart Policies](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy)
-
-### Production Docker Configuration
-
-[React App Docker Setup](https://github.com/gopibabus/react-template)
+> Containarize app with all the services that is required using Docker.

@@ -1,0 +1,22 @@
+{
+    "name": "gopibabus/docker-private-package",
+    "description": "A sample private composer package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gopibabus\\DockerPrivatePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gopibabu srungavarapu",
+            "email": "gsrungavarapu@tmhcc.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
